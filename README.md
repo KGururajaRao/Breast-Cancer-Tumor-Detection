@@ -1,4 +1,4 @@
-# Breast-Cancer-Tumor-Detection
+# Breast Cancer Tumor Detection
 
 Breast Cancer Tumor detection using Machine Learning - XGBoost Algorithm
 
