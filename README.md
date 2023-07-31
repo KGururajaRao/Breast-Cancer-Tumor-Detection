@@ -4,6 +4,6 @@ Breast Cancer Tumor detection using Machine Learning - XGBoost Algorithm
 
 - Machine Learning
 - XGBoost
-- Confusion Matrix
+- Confusion Matrix   
 - K-Fold Cross Validation
  
